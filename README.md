@@ -1,4 +1,4 @@
-Projeto criado utilizando .NET 6 e EntityFramework integrado a base SQLite
+Projeto criado utilizando .NET 6 e EntityFramework integrado a base SQLite com Swagger habilitado
 
 Rotas:
 
